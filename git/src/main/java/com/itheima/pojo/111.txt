@@ -14,3 +14,4 @@ dev分支代码同步到master  master
 dev分支代码同步到master  dev1
 
 
+dev分支代码同步到master  dev2
