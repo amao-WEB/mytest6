@@ -15,3 +15,4 @@ dev分支代码同步到master  dev1
 
 
 dev分支代码同步到master  dev2
+dev分支代码同步到master  dev2 要使用stash  3
