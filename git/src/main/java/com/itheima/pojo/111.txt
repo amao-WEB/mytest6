@@ -9,5 +9,8 @@ dev分支代码同步到master
 
 11
 
-dev分支代码同步到master  dev
+第一次
+dev分支代码同步到master  master
+dev分支代码同步到master  dev1
+
 
