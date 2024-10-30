@@ -19,3 +19,4 @@ dev分支代码同步到master  解决冲突 stash
 测试git reset --soft [版本号] 软回退，只会退commit  第5次commit
 
 第一次push
+第二次push
