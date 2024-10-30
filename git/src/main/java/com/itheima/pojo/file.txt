@@ -1,2 +1,22 @@
 maodendhui 第一次测试！
-2
+
+dev分支代码同步到master  dev2 要使用stash 3
+
+dev分支代码同步到master  dev2 要使用stash
+
+
+dev分支代码同步到master  解决冲突 stash  远程分支上的
+
+dev分支代码同步到master  解决冲突 stash
+
+测试git reset --soft [版本号] 软回退，只会退commit  第5次commit
+
+-----------------------
+测试git reset --soft [版本号] 软回退，只会退commit  第1次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第2次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第3次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第4次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第5次commit
+
+第一次push
+第二次push
