@@ -19,4 +19,6 @@ dev分支代码同步到master  dev2
 dev分支代码同步到master  dev2 要使用stash  3
 
 dev分支代码同步到master  dev2 要使用stash
-
+1再来一次
+2
+3
