@@ -31,3 +31,63 @@ dev分支代码同步到master  解决冲突 stash
 测试push回退7
 测试push回退8
 
+合并提交1
+合并提交2
+合并提交3
+合并提交4
+
+---------------
+合并提交1
+合并提交2
+
+
+// todo 再来一次---------------
+合并提交1
+合并提交2
+合并提交3
+合并提交4
+
+再来一次1
+再来一次2
+再来一次3
+再来一次4
+
+------||||---
+2
+3
+
+------||||---
+1
+2
+3
+dev分支代码同步到master  dev2 要使用stash 3
+
+dev分支代码同步到master  dev2 要使用stash
+
+
+dev分支代码同步到master  解决冲突 stash  远程分支上的
+
+dev分支代码同步到master  解决冲突 stash
+
+测试git reset --soft [版本号] 软回退，只会退commit  第5次commit
+
+-----------------------
+测试git reset --soft [版本号] 软回退，只会退commit  第1次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第2次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第3次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第4次commit
+测试git reset --soft [版本号] 软回退，只会退commit  第5次commit
+
+第一次push
+第二次push
+
+测试push回退
+测试push回退1
+测试push回退2
+测试push回退3
+测试push回退4
+测试push回退5
+测试push回退6
+测试push回退7
+测试push回退8
+
